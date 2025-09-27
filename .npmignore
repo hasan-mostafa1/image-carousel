@@ -1,0 +1,7 @@
+node_modules
+images
+template.html
+style.css
+.prettierrc
+.prettierignore
+eslint.config.mjs
